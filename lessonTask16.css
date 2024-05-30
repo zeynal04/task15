@@ -1,9 +1,9 @@
 .loremText {
-    color: red;
-    display: flex;
+    color: yellow;
+ 
     background-color: black;
 font-size: 20px;
-margin-bottom: -1px;
+
 
 }
 .newText{
@@ -19,4 +19,10 @@ font-size: 27px;
 text-align: center;
 
 }
+body{
+    background-color: black;
+}
 
+img{
+    float: left;
+}
